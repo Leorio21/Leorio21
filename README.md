@@ -1,9 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 24 mins    ████████████████████████▒   97.55 %
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript   1 hr 32 mins    ████████████████████████▒   97.88 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
