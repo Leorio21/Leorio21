@@ -1,10 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   16 hrs 53 mins  ██████████████████████▓░░   90.34 %
-JavaScript   1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Text         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript   15 hrs 30 mins  █████████████████████▒░░░   85.91 %
+JavaScript   2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Text         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 SSH Key      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
